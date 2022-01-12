@@ -42,3 +42,8 @@ touch text_1.txt text_2.txt text_3.txt file_1.json file_2.json
 mkdir papka_1 papka_2 papka_3
 mv file_1.json papka_1/file_1.json
 mv text_1.txt papka_1/text_1.txt
+
+Запустить скрипт в Git bash:
+
+$ chmod ugo+x s_1.txt
+$ ./s_1/txt
